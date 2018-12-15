@@ -46,7 +46,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "marketing"
     title = "Marketing"
     subtitle = "Social media is a big part of our lives, and the existence of crypto platforms have boosted cryptocurrency in a unique way. Most of the value derives from how we envision it from the internet."
-    description = "<p>The technical know-how and the experience of the team is the backbone of every crypto project that wants to have a bright, long-term future. But don’t expect your whitepaper, roadmap or even the finished product to just sell itself. A superior online marketing strategy with a clear and open communication on its practical used cases will help differentiate apart in the jungle of digital currency.</p><ul class='checked'><li>Practical Use Cases </li><li>Privacy & Anonymity </li><li>Protection & Security </li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>The technical know-how and experience of a team is the backbone in every crypto project that wants to have a bright, long future. You can't expect the whitepaper, roadmap or even the finished product to sell itself. A superior online marketing strategy, with a clear and open communication about the practical used case will differentiate the project apart from all the others.</p><ul class='checked'><li>Practical Use Cases </li><li>Privacy & Anonymity </li><li>Protection & Security </li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
