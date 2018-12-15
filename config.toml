@@ -3,6 +3,7 @@ theme = "hugo-icon"
 baseURL = "/"
 languageCode = "en-AU"
 title = "My Awesome Title"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Metadata
 [params]
