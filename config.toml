@@ -6,7 +6,7 @@ title = "My Awesome Title"
 
 # Metadata
 [params]
-  author = "Your name"
+  author = "Thomas Groh"
   description = "Cool description"
 
 # Hero section (from here on is for icon theme)
