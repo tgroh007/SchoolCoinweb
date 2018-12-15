@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "School`Coin <br> A clear path to privacy & security of your digtal money!"
+  title = "School`Coin <br> A clear path to the privacy & security of your digtal money!"
   description = "Based on [Cryptonote](https://cryptonote.org/) technology"
 
 # Navigation section
