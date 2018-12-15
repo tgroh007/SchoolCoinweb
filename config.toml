@@ -2,19 +2,19 @@
 theme = "hugo-icon"
 baseURL = "/"
 languageCode = "en-AU"
-title = "My Awesome Title"
+title = "Welcome to SchoolCoin!"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Metadata
 [params]
   author = "Thomas Groh"
-  description = "Cool description"
+  description = "SchoolCoin is a secure low-fee conduit to privately & anonymously send money anywhere you have internet"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better web"
-  description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+  title = "School`Coin <br> A clear path to privacy & security of your digtal money!"
+  description = "Based on [Cryptonote](https://cryptonote.org/) technology"
 
 # Navigation section
 [params.nav]
@@ -207,11 +207,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   button_text = "Submit"
 
 # Footer section
-# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
-  github = "#"
+  note = "<p><small>&copy; 2018 SchoolCoin. All Rights Reserved. </small></p>"
+  github = "https://github.com/school-coin/SchoolCoin"
   twitter = "#"
   facebook = "#"
   vine = "#"
