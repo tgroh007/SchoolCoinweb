@@ -68,7 +68,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   video = true
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Our Services"
-  description = "A digital currency like USD that can be exchanged between two entities, the difference with SchoolCoin currency it's made to be private, secure and anonymous using Blockchain technology by CryptoNote."
+  description = "A digital currency like USD that can be exchanged between two entities, the difference with SchoolCoin's currency, it's made to be private, secure and anonymous using Blockchain technology by CryptoNote."
 
   [[params.services.item]]
     icon = "icon-ban"
